@@ -1,0 +1,7 @@
+{
+  "name": "Hospital Facilities Maintenance",
+  "description": "A comprehensive tracking system for hospital infrastructure repairs, featuring smart priority analysis and detailed reporting for facilities management.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
